@@ -1,34 +1,43 @@
-# Tamwinat App.md
 Privacy Policy for Tamwinat App
 Effective Date: April 5, 2025
+Last Updated: July 16, 2025
 
 Welcome to Tamwinat , a mobile application designed to provide users with a seamless online shopping experience. This Privacy Policy explains how we collect, use, disclose, and safeguard your personal information when you use our app, including during the payment process via Apple Pay and MyFatoorah .
 
-🔍 1. Information We Collect
-We may collect the following types of information:
+We are committed to protecting your privacy and ensuring that your personal data is handled in compliance with applicable laws, including the General Data Protection Regulation (GDPR) and other relevant regulations.
 
+🔍 1. Information We Collect
 A. Personal Data You Provide
-Account Information : Name, email address, phone number, password, and other details when you register or update your profile.
-Shipping & Billing Information : Address, ZIP code, country, region, city, etc., needed to deliver products.
-Payment Information : Payment method details (e.g., Apple Pay, credit card) processed securely by third-party services like Apple Pay and MyFatoorah .
+When you register or use our services, we may collect:
+
+Account Information : Name, email address, phone number, password, and other details when you create or update your account.
+Shipping & Billing Information : Full name, address, ZIP code, country, region, city, etc., required to deliver products.
+Payment Information : Payment method details processed securely by third-party services like Apple Pay and MyFatoorah .
+⚠️ Important : Tamwinat does not store any payment card information on its servers. All sensitive payment data is handled directly by Apple Pay and MyFatoorah. 
+
 B. Automatically Collected Information
-Device Information : Device model, operating system, unique device identifiers, IP address, and mobile network information.
-Usage Data : Pages visited, time spent on the app, search queries, and other usage patterns.
+When you use the app, we may automatically collect:
+
+Device Information : Device model, operating system version, unique device identifiers, IP address, and mobile network information.
+Usage Data : Pages visited, time spent on the app, search queries, and other behavioral patterns.
 Location Data : Approximate location based on your IP address or device settings (only if permitted).
 C. Cookies and Tracking Technologies
-We use cookies and similar tracking tools to improve user experience, analyze app performance, and personalize content.
+We use cookies and similar tracking tools to:
+
+Improve user experience.
+Analyze app performance.
+Personalize content and advertisements.
+You can manage cookie preferences through your browser or device settings where available.
 
 💳 2. Payment Processing
 Tamwinat enables secure transactions using:
 
-Apple Pay
-MyFatoorah
-Apple Pay
-When you use Apple Pay, your payment information is not stored on our servers.
+✅ Apple Pay
+When you use Apple Pay , your payment information is not stored on our servers.
 Payment data is encrypted and handled securely by Apple.
 For more details, please see Apple Pay Privacy Policy .
-MyFatoorah
-All payments are processed securely through MyFatoorah.
+✅ MyFatoorah
+All payments are processed securely through MyFatoorah .
 No payment data is stored on our servers.
 For more details, please see MyFatoorah Privacy Policy .
 🔐 3. How We Use Your Information
@@ -36,7 +45,7 @@ We use the collected information to:
 
 Process orders and manage purchases.
 Deliver, track, and improve customer service.
-Communicate with you about orders, updates, promotions, and support.
+Communicate about orders, updates, promotions, and support.
 Improve app functionality and user experience.
 Detect and prevent fraud or misuse.
 🔄 4. Sharing of Your Information
@@ -70,24 +79,17 @@ Our app is not directed to individuals under the age of 13. We do not knowingly 
 
 If we become aware that a child has provided us with personal information, we will delete it promptly.
 
-📞 9. Your Rights
-Depending on your jurisdiction, you may have rights regarding your personal data, including:
-
-The right to access, correct, or delete your data.
-The right to object to or restrict processing.
-The right to data portability.
-To exercise these rights, contact us using the information below.
-
-📝 10. Changes to This Policy
+📝 9. Changes to This Policy
 We may update this Privacy Policy periodically to reflect changes in our practices or legal requirements. Any changes will be posted within the app and effective immediately upon posting.
+
+📄 10. Functional Privacy Policy URL
+A functional and publicly accessible copy of this Privacy Policy is available at:
+🔗 **https://www.tamwinat.com/privacy-policy **
+
+You can also access it from within the app under Settings > Privacy Policy .
 
 📬 11. Contact Us
 If you have any questions or concerns about this Privacy Policy or our data practices, please contact us:
 
 📧 Email: ehab@ocean-kw.com
-🌐 Phone: +96522618384
-
-
-
-
-
+📞 Phone: +965 22618384
